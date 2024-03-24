@@ -1,11 +1,11 @@
 title: Radio Mulhid
-description: Free your mind from the chains of Islamic slavery
+description: Songs of Heretic Apostasy
 author: Hujjatul Murtadeen
-email: exmuslimadamseeker@gmail.com
-lang: hi-in
+#email: exmuslimadamseeker@gmail.com
+lang: en-us
 logo: /assets/img/logo.png
-baseurl: "/YouTubeLive.html" # the subpath of your site, e.g. /blog
-url: "adamseekeroftruth.com" # the base hostname & protocol for your site, e.g. http://example.com
+#baseurl: "/YouTubeLive.html" # the subpath of your site, e.g. /blog
+#url: "adamseekeroftruth.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
